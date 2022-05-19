@@ -1,0 +1,12 @@
+.container {
+    width: 500px;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+    border-width:6px 4px 6px 6px;
+    border-style:double;
+    border-color:purple;
+    box-shadow:2px 2px 4px 2px purple;
+}
